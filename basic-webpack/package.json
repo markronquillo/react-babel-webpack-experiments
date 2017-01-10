@@ -1,0 +1,16 @@
+{
+  "name": "basic-webpack",
+  "version": "1.0.0",
+  "description": "LearnCode.academy ================= This is the example project in https://www.youtube.com/watch?v=9kJVYpOqcVU",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jquery": "^3.1.1",
+    "lodash": "^4.17.4",
+    "webpack": "^1.14.0"
+  }
+}
